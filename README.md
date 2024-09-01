@@ -1,5 +1,4 @@
-### Hi there 👋, 
-## This is Ms. Than Than Swe 
+### Hi there 👋, Ms. Than Than Swe 
 ![Experienced in Data, AI and Software Engineer](https://pbs.twimg.com/profile_banners/1719739583704010752/1701500243/1080x360)
 
 
