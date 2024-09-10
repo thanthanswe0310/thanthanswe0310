@@ -9,6 +9,7 @@ I began as an ERP software engineer and worked on an employee attendance system 
 Most recently, I served as a Business Data Analyst at KBZMS General Insurance, where I led a fraud detection project. Additionally, I conducted AI research in the construction domain at Chung Ang University, South Korea.
 
 Skills and Experience : 
+
 ✴️ Python
 
 ➡️ C++/C
