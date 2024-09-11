@@ -16,13 +16,13 @@ Skills and Experience :
 
 🔼 Pandas
 
-⁂ TensorFlow
+⁂ Pytorch/TensorFlow
 
 ※ Databases (PostgreSQL, MS SQL, SAP Database,and AWS Cloud Computing)
 
 ⋙ Docker and Cuda
 
-⁙  Power BI.
+⁙  Power BI/ Tableau/ Google Data Studio.
 
 
 - 🔭 I’m currently working on Currently, I am working in the field of AI (Computer Vision) in the Unmanned Vending Machine System. I have a strong passion for cutting-edge technology, especially in data analytics, data science, machine learning, and artificial intelligence. I am eager to learn about the latest advancements in these fields and apply my skills to solve complex problems. My enthusiasm drives me to stay updated and push the boundaries of innovation.
