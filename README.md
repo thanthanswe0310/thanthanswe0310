@@ -18,8 +18,7 @@ Skills and Experience :
 
 ⁂ Pytorch/TensorFlow
 
-※ Databases (PostgreSQL, MS SQL, SAP Database,and AWS Cloud Computing)
-
+※ Databases (PostgreSQL, MS SQL, (AWS cloud computing - EC2 instances,Sagemaker))
 ⋙ Docker and Cuda
 
 ⁙  Power BI/ Tableau/ Google Data Studio.
