@@ -4,7 +4,7 @@
 
 I am Ms. Than Than Swe from Myanmar has six years of experience in data analytics, data governance, data visualization, predictive modeling, AI, and programming. 
 
-I began as an ERP software engineer and worked on an employee attendance system using face recognition. I later became a data analyst at Phandeeyar Myanmar Innovation Lab, working on a hate speech project, and then a Data Scientist at UMG Myanmar Ideal Lab, focusing on Burmese language projects. 
+I began as an ERP software engineer and worked on an employee attendance system using face recognition. I later became a data analyst at Phandeeyar Myanmar Innovation Lab, working on a hate speech project focusing on Burmese language projects. 
 
 Most recently, I served as a Business Data Analyst at KBZMS General Insurance, where I led a fraud detection project. Additionally, I conducted AI research in the construction domain at Chung Ang University, South Korea.
 
