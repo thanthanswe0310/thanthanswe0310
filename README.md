@@ -12,7 +12,7 @@ Skills and Experience :
 
 ✴️ Python
 
-➡️ C++/C
+➡️ C/C++ (Basic)
 
 🔼 Pandas
 
@@ -25,7 +25,7 @@ Skills and Experience :
 ⁙  Power BI/ Tableau/ Google Data Studio.
 
 
-- 🔭 I’m currently working on Currently, I am working in the field of AI (Computer Vision) in the Unmanned Vending Machine System. I have a strong passion for cutting-edge technology, especially in data analytics, data science, machine learning, and artificial intelligence. I am eager to learn about the latest advancements in these fields and apply my skills to solve complex problems. My enthusiasm drives me to stay updated and push the boundaries of innovation.
+- 🔭 I am a dedicated and results-oriented AI professional with a strong foundation in Computer Science, specializing in data science, advanced analytics, machine learning, and computer vision. With over six years of industry experience, I have developed and deployed predictive models, conducted in-depth data analysis, and implemented effective data visualization solutions to support data-driven decision-making. My expertise in computer vision includes designing and optimizing image recognition and classification algorithms across both RGB and grayscale data for classification and regression tasks. In addition, my background in software engineering—particularly in distributed enterprise systems and database application development—enables me to build scalable, robust, and production-ready AI solutions. I have also gained valuable research experience at Seoul National University of Science and Technology and Chung-Ang University in South Korea, where I explored advanced AI methodologies and contributed to research-driven innovation. Currently, my work focuses on real-world AI applications involving sensor data, where I develop solutions for tracking and detection in dynamic environments.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/thanthanswe0310?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/than-than-swe-0a52a216a//)  
 
