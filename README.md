@@ -36,7 +36,15 @@ I am Ms. Than Than Swe from Myanmar, with over six years of experience in data a
   - GitHub Actions
   - MLOps
 
-🔭 I am a dedicated and results-oriented AI professional with a strong foundation in Computer Science, specializing in data science, advanced analytics, machine learning, and computer vision. With over six years of industry experience, I have developed and deployed predictive models, conducted in-depth data analysis, and implemented effective data visualization solutions to support data-driven decision-making. My expertise in computer vision includes designing and optimizing image recognition and classification algorithms across both RGB and grayscale data for classification and regression tasks. In addition, my background in software engineering particularly in distributed enterprise systems and database application development enables me to build scalable, robust, and production-ready AI solutions. I have also gained valuable research experience at Seoul National University of Science and Technology and Chung-Ang University in South Korea, where I explored advanced AI methodologies and contributed to research-driven innovation. Currently, my work focuses on real-world AI applications involving sensor data, where I develop solutions for tracking and detection in dynamic environments.
+I am an AI Engineer and Computer Vision Specialist with over six years of experience in artificial intelligence, machine learning, data analytics, and software engineering. My expertise includes predictive modeling, deep learning, computer vision, data analytics, and scalable AI system development.
+
+I have hands-on experience developing and deploying AI models for image recognition, object detection, classification, and tracking using both RGB and grayscale datasets for classification and regression tasks. My technical background also includes data preprocessing, feature engineering, model optimization, and AI pipeline development for real-world industrial applications.
+
+In addition to AI development, I have strong experience in software engineering, database systems, and distributed enterprise applications, enabling me to build robust, scalable, and production-ready AI solutions. I am proficient in technologies such as Python, PyTorch, TensorFlow, PostgreSQL, Docker, CUDA, AWS cloud services, and MLOps workflows.
+
+I have conducted research at Seoul National University of Science and Technology and Chung-Ang University in South Korea, where I explored advanced AI methodologies and contributed to research-driven innovation in computer vision and machine learning.
+
+Currently, my work focuses on AI applications involving sensor data, tracking systems, intelligent detection, and real-time analytics in dynamic environments.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/thanthanswe0310?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/than-than-swe-0a52a216a//)  
 
