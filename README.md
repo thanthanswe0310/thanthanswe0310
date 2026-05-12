@@ -5,8 +5,8 @@ I am Ms. Than Than Swe from Myanmar, with over six years of experience in data a
 
 #### Technical Skills
 
-▣ Programming
-  Python • SQL • C/C++
+##### Programming
+- Python • SQL • C/C++
 
 ▣ AI & Machine Learning
   PyTorch • TensorFlow • Deep Learning • Computer Vision • Predictive Modeling • Deep Learning • Data Analytics
