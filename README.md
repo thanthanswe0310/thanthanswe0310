@@ -16,7 +16,6 @@ I am Ms. Than Than Swe from Myanmar, with over six years of experience in data a
   - Deep Learning
   - Computer Vision
   - Predictive Modeling
-  - Data Analytics
 
 ##### Data Analytics
   - Pandas
