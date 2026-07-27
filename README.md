@@ -1,49 +1,137 @@
-### Hi there 👋, Ms. Than Than Swe 
-![Experienced in Data And AI Solution Engineer](https://pbs.twimg.com/profile_banners/1719739583704010752/1701500243/1080x360)
+Ran command: `git clone https://github.com/thanthanswe0310/thanthanswe0310.git`
+Ran command: `python --version`
 
-I am Ms. Than Than Swe from Myanmar, with over six years of experience in data analytics, data governance, data visualization, predictive modeling, artificial intelligence, and software development. My professional background combines expertise in AI engineering, computer vision, machine learning, and data-driven application development across both research and industry environments.
+Because **`git` is not installed** (or not configured in your system's PATH) and I do not have access to your **GitHub credentials** (like a Personal Access Token or SSH Key), I cannot push changes directly to your GitHub repository from here. 
 
-#### Technical Skills
+For security and ease, the best way to update your profile is to copy the code block below and paste it directly into the GitHub editor:
 
-##### Programming
-- Python
-- SQL
-- C/C++ (Basic)
+### 👉 **[Click here to edit your README on GitHub](https://github.com/thanthanswe0310/thanthanswe0310/edit/main/README.md)**
 
-##### AI & Machine Learning
-  - PyTorch
-  - TensorFlow
-  - Deep Learning
-  - Computer Vision
-  - Predictive Modeling
+---
 
-##### Data Analytics
-  - Pandas
-  - Power BI
-  - Tableau
-  - Google Data Studio
+### Markdown Code to Copy:
 
-##### Databases & Cloud
-- PostgreSQL
-- MS SQL Server
-- AWS EC2
-- SageMaker
+```markdown
+# Hi there 👋, I'm Than Than Swe
 
-##### DevOps & Infrastructure
-  - Docker
-  - CUDA
-  - GitHub Actions
-  - MLOps
+![Senior AI & Machine Learning Engineer](https://pbs.twimg.com/profile_banners/1719739583704010752/1701500243/1080x360)
 
-I am an AI Engineer and Computer Vision Specialist with over six years of experience in artificial intelligence, machine learning, data analytics, and software engineering. My expertise includes predictive modeling, deep learning, computer vision, data analytics, and scalable AI system development.
+<p align="center">
+  <a href="https://www.linkedin.com/in/than-than-swe-0a52a216a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:thanthanswe0310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/thanthanswe0310"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-I have hands-on experience developing and deploying AI models for image recognition, object detection, classification, and tracking using both RGB and grayscale datasets for classification and regression tasks. My technical background also includes data preprocessing, feature engineering, model optimization, and AI pipeline development for real-world industrial applications.
+---
 
-In addition to AI development, I have strong experience in software engineering, database systems, and distributed enterprise applications, enabling me to build robust, scalable, and production-ready AI solutions. I am proficient in technologies such as Python, PyTorch, TensorFlow, PostgreSQL, Docker, CUDA, AWS cloud services, and MLOps workflows.
+### 🚀 About Me
 
-I have conducted research at Seoul National University of Science and Technology and Chung-Ang University in South Korea, where I explored advanced AI methodologies and contributed to research-driven innovation in computer vision and machine learning.
+I am a **Senior Machine Learning Engineer & Computer Vision Specialist** based in South Korea, with over **6 years of professional experience** spanning South Korea, India, and Myanmar. My work is focused on building end-to-end production AI systems, real-time sensor fusion, edge AI deployment, and scalable data pipelines. 
 
-Currently, my work focuses on AI applications involving sensor data, tracking systems, intelligent detection, and real-time analytics in dynamic environments.
+I bridge the gap between academic research and industrial-grade software engineering, having developed and deployed robust AI solutions for real-time tracking, object detection, anomaly detection, and business analytics.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/thanthanswe0310?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/than-than-swe-0a52a216a//)  
+* **🔭 Current Focus**: High-precision indoor positioning systems, real-time multi-sensor fusion (IMU + Piezoelectric), and 1D-CNN optimization for activity recognition.
+* **🎓 Education**: Master of Computer Science (Mysore University, India - GPA: 9/10) | B.Sc. in Computer Science (UCSY, Myanmar)
+* **🌍 Location**: Seoul, South Korea (Visa Status: E-7-1)
 
+---
+
+### 📊 Key Highlights
+
+* 📈 **6+ Years** of cross-border experience in AI engineering, data analytics, and software development.
+* ⚡ **15% Performance Boost** achieved on object detection pipeline throughput via custom YOLO optimization.
+* 🔍 **98% Accuracy** achieved in production face detection model deployment.
+* 🏫 **2 Leading Korean Research Labs** (Chung-Ang University & SNUST) where I led AI-driven innovation.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🧠 AI & Deep Learning</h4>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>💻 Languages</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🐳 MLOps & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🗄️ Databases & Storage</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/TimescaleDB-F15A24?style=flat-square&logo=timescaledb&logoColor=white" alt="TimescaleDB" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+      <img src="https://img.shields.io/badge/SAP%20HANA-008FD3?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>📊 Data Analytics & BI</h4>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>👁️ CV & Architecture Models</h4>
+      <code>YOLOv7/v8</code> &nbsp; <code>Faster R-CNN</code> &nbsp; <code>1D-CNN</code> &nbsp; <code>Sensor Fusion</code> &nbsp; <code>Anomaly Detection</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experience Spotlight
+
+#### 🇰🇷 Senior Machine Learning Engineer | Remantek Co., Ltd. (South Korea)
+*March 2026 - Present*
+* **Sensor Fusion & Positioning**: Designed and built an end-to-end real-time tracking system combining IMU and piezoelectric sensor fusion for indoor positioning.
+* **Real-time Pipelines**: Architected ingestion and feature engineering pipelines storing high-frequency sensor data in **TimescaleDB**.
+* **1D-CNN Deep Learning**: Deployed a 1D-CNN model to perform real-time human activity recognition.
+
+#### 🇰🇷 AI Software Engineer | Tricubics (South Korea)
+*May 2024 - January 2025*
+* **YOLO Object Detection**: Implemented and deployed object detection algorithms, improving pipeline performance by **15%**.
+* **Quality Control**: Created specialized frame zone and object classification algorithms to identify product defects.
+
+#### 🇰🇷 AI Researcher (Computer Vision) | Chung-Ang University (South Korea)
+*October 2023 - April 2024*
+* **Smart Construction**: Contributed to a NIPA & NIA-funded smart construction vision system, automating PPE, ladder, and scaffolding detection.
+
+#### 🇲🇲 Business Data Analyst (Data Mining) | KBZMS Insurance (Myanmar)
+*January 2021 - December 2022*
+* **Cloud Data Lakes**: Engineered ETL pipelines using Python and **AWS Glue**, moving complex data sources (Oracle, MS SQL, SAP HANA) to AWS lakes.
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanthanswe0310&show_icons=true&theme=tokyonight&count_private=true" alt="Than Than Swe's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanthanswe0310&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+* 📬 **Email**: [thanthanswe0310@gmail.com](mailto:thanthanswe0310@gmail.com)
+* 💼 **LinkedIn**: [linkedin.com/in/than-than-swe-0a52a216a](https://www.linkedin.com/in/than-than-swe-0a52a216a/)
+* 🌐 **GitHub Repositories**: [github.com/thanthanswe0310](https://github.com/thanthanswe0310?tab=repositories)
+
+*“Leveraging data engineering & computer vision to solve real-world industrial challenges.”*
+```
