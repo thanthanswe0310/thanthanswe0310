@@ -85,7 +85,17 @@ I bridge the gap between academic research and industrial-grade software enginee
 
 #### 🇲🇲 Business Data Analyst (Data Mining) | KBZMS Insurance (Myanmar)
 *January 2021 - December 2022*
-* **Cloud Data Lakes**: Engineered ETL pipelines using Python and **AWS Glue**, moving complex data sources (Oracle, MS SQL, SAP HANA) to AWS lakes.
+* **Cloud Data Lakes**: Engineered ETL pipelines using Python and **AWS Glue**, moving complex database schemas (Oracle, MS SQL, SAP HANA) to AWS lakes.
+
+#### 🇲🇲 Data Analyst | Phandeeyar Myanmar Innovation Lab (Myanmar)
+*May 2020 - November 2020*
+* **Social Data Mining**: Extracted social media data using Python and CrowdTangle tools to interpret, clean, and analyze trends.
+* **BI Dashboards**: Originated and monitored hate speech tracking dashboards using Google Data Studio.
+
+#### 🇲🇲 Full-Stack Python/Odoo Developer | Berakah Peneil Co., Ltd (Myanmar)
+*September 2018 - August 2019*
+* **Enterprise Customization**: Designed and tested custom Odoo (OpenERP) addons, products, and interfaces using Python.
+* **Backend Integration**: Integrated enterprise applications with backend relational database systems.
 
 ---
 
