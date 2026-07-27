@@ -99,12 +99,6 @@ I bridge the gap between academic research and industrial-grade software enginee
 
 ---
 
-### 📈 GitHub Statistics
-![Than Than Swe's GitHub Streak](https://streak-stats.demolab.com/?user=thanthanswe0310&theme=tokyonight)
-![Than Than Swe's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanthanswe0310&theme=tokyonight)
-
----
-
 ### 🤝 Let's Connect!
 
 * 📬 **Email**: [thanthanswe0310@gmail.com](mailto:thanthanswe0310@gmail.com)
