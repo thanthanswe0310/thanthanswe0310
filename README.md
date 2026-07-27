@@ -1,14 +1,10 @@
-
-### Markdown Code to Copy:
-
-```markdown
 # Hi there 👋, I'm Than Than Swe
 
 ![Senior AI & Machine Learning Engineer](https://pbs.twimg.com/profile_banners/1719739583704010752/1701500243/1080x360)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/than-than-swe-0a52a216a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:thanthanswe0310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/than-than-swe-0a52a216a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;&nbsp;
+  <a href="mailto:thanthanswe0310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;&nbsp;
   <a href="https://github.com/thanthanswe0310"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -37,51 +33,36 @@ I bridge the gap between academic research and industrial-grade software enginee
 
 ### 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🧠 AI & Deep Learning</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🐳 MLOps & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🗄️ Databases & Storage</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/TimescaleDB-F15A24?style=flat-square&logo=timescaledb&logoColor=white" alt="TimescaleDB" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-      <img src="https://img.shields.io/badge/SAP%20HANA-008FD3?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>📊 Data Analytics & BI</h4>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>👁️ CV & Architecture Models</h4>
-      <code>YOLOv7/v8</code> &nbsp; <code>Faster R-CNN</code> &nbsp; <code>1D-CNN</code> &nbsp; <code>Sensor Fusion</code> &nbsp; <code>Anomaly Detection</code>
-    </td>
-  </tr>
-</table>
+#### 🧠 AI & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+#### 🐳 MLOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+#### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-F15A24?style=flat-square&logo=timescaledb&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-008FD3?style=flat-square&logo=sap&logoColor=white)
+
+#### 📊 Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+#### 👁️ CV & Architecture Models
+`YOLOv7/v8` &nbsp;|&nbsp; `Faster R-CNN` &nbsp;|&nbsp; `1D-CNN` &nbsp;|&nbsp; `Sensor Fusion` &nbsp;|&nbsp; `Anomaly Detection`
 
 ---
 
@@ -112,6 +93,7 @@ I bridge the gap between academic research and industrial-grade software enginee
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thanthanswe0310&show_icons=true&theme=tokyonight&count_private=true" alt="Than Than Swe's GitHub Stats" height="180" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanthanswe0310&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
@@ -124,4 +106,3 @@ I bridge the gap between academic research and industrial-grade software enginee
 * 🌐 **GitHub Repositories**: [github.com/thanthanswe0310](https://github.com/thanthanswe0310?tab=repositories)
 
 *“Leveraging data engineering & computer vision to solve real-world industrial challenges.”*
-```
