@@ -100,13 +100,11 @@ I bridge the gap between academic research and industrial-grade software enginee
 ---
 
 ### 📈 GitHub Statistics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thanthanswe0310&show_icons=true&theme=tokyonight&count_private=true" alt="Than Than Swe's GitHub Stats" height="180" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanthanswe0310&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
-
 ---
 
 ### 🤝 Let's Connect!
