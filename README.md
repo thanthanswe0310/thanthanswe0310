@@ -1,13 +1,3 @@
-Ran command: `git clone https://github.com/thanthanswe0310/thanthanswe0310.git`
-Ran command: `python --version`
-
-Because **`git` is not installed** (or not configured in your system's PATH) and I do not have access to your **GitHub credentials** (like a Personal Access Token or SSH Key), I cannot push changes directly to your GitHub repository from here. 
-
-For security and ease, the best way to update your profile is to copy the code block below and paste it directly into the GitHub editor:
-
-### 👉 **[Click here to edit your README on GitHub](https://github.com/thanthanswe0310/thanthanswe0310/edit/main/README.md)**
-
----
 
 ### Markdown Code to Copy:
 
