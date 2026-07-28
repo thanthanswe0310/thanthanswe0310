@@ -92,6 +92,12 @@ I bridge the gap between academic research and industrial-grade software enginee
 * **Social Data Mining**: Extracted social media data using Python and CrowdTangle tools to interpret, clean, and analyze trends.
 * **BI Dashboards**: Originated and monitored hate speech tracking dashboards using Google Data Studio.
 
+#### IN Data Science Intern | SocialTek.in (India)
+*Sep 2019 - Mar 2020*
+* Developed an employee attendance system used in a computer vision system with OpenCV.
+* Applied face detection model, based on HoG Face Detector in Dlib 
+
+
 #### 🇲🇲 Full-Stack Python/Odoo Developer | Berakah Peneil Co., Ltd (Myanmar)
 *September 2018 - August 2019*
 * **Enterprise Customization**: Designed and tested custom Odoo (OpenERP) addons, products, and interfaces using Python.
